@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "stm32h723_hid_dfu_v0_2/1.0.0": {
+        "runtime": {
+          "stm32h723_hid_dfu_v0_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "stm32h723_hid_dfu_v0_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
